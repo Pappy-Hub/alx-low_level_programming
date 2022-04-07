@@ -1,3 +1,9 @@
+__0x00. C - Hello, world__                       
+                                              
+
+**Tasks**
+
+
 0. Preprocessor
 
 mandatory
@@ -9,9 +15,6 @@ Write a script that runs a C file through the preprocessor and save the result i
 The C file name will be saved in the variable $CFILE
 
 The output should be saved in the file c
-
-
-
 
 
 1. Compiler
@@ -29,11 +32,6 @@ The output file should be named the same as the C file, but with the extension .
 Example: if the C file is main.c, the output file should be main.o
 
 
-
-
-
-
-
 2. Assembler
 
 mandatory
@@ -49,11 +47,6 @@ The output file should be named the same as the C file, but with the extension .
 Example: if the C file is main.c, the output file should be main.s
 
 
-
-
-
-
-
 3. Name
 
 mandatory
@@ -63,11 +56,6 @@ Write a script that compiles a C file and creates an executable named cisfun.
 
 
 The C file name will be saved in the variable $CFILE
-
-
-
-
-
 
 
 4. Hello, puts
@@ -81,11 +69,6 @@ Use the function puts
 You are not allowed to use printf
 
 Your program should end with the value 0
-
-
-
-
-
 
 
 5. Hello, printf
@@ -105,13 +88,6 @@ Your program should return 0
 Your program should compile without warning when using the -Wall gcc option
 
 
-
-
-
-
-
-
-
 6. Size is not grandeur, and territory does not make a nation
 
 mandatory
@@ -127,23 +103,3 @@ Warnings are allowed
 Your program should return 0
 
 You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
