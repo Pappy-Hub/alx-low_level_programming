@@ -5,7 +5,7 @@
  *
  * Return: Always 1 (Successs)
  * 
- */
+ **/
 
 int main(void)
 {
