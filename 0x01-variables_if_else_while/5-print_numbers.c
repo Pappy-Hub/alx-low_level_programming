@@ -7,11 +7,11 @@
 int main(void)
 
 {
-int pappy;
+int i;
 
-for (pappy = 0 ; pappy <10; pappy++)
+for (i = 0; i <10; i++)
 {
-printf("%pappy", pappy);
+printf("%i", i);
 }
 
 printf("\n");
