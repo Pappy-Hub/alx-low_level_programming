@@ -15,9 +15,9 @@ int main(void)
 		if (i != 57)
 		{
 		putcha (',');
-		putcha (',');
+		putcha (' ');
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
