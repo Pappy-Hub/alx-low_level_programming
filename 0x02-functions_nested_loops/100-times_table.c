@@ -1,6 +1,5 @@
+#include "main.h"
 
-<<<<<<< HEAD
-=======
 /**
  * print_times_table - prints the times table
  * @n: integer for which the times table will be printed
@@ -53,4 +52,4 @@ void print_times_table(int n)
 		}
 	}
 }
->>>>>>> aa9262021ab1fcdb42545aabd832c78002880fd2
+
