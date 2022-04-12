@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  *main - print first 50 fibonacci
  *
  *Return: 0 always.
  */
-
 int main(void)
 {
 	long int i, x = 1, y = 2, sum = 0, tSum = 0;
@@ -16,12 +14,11 @@ int main(void)
 		{
 			tSum = tSum + y;
 		}
-
-	        sum = x + y;
+		sum = x + y;
 		x = y;
-		y = sum;	
-	}
+		y = sum;
 
+	}
 	printf("%ld\n", tSum);
 	return (0);
 }
