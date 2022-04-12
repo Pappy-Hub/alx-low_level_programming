@@ -1,38 +1,44 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Prints numbers between 00 to 89.
- *
- * Return: Always 0 (Success)
+ * print_times_table - Prints the times table of the input,
+ *                     starting with 0.
+ * @n: The value of the times table to be printed.
  */
-
-int main(void)
+void print_times_table(int n)
 {
-	int i, e;
+	int num, mult, prod;
 
-	i = 48;
-	e = 48;
-
-	while (e < 58)
+	if (n >= 0 && n <= 15)
 	{
-		i = 48;
-		while (i < 58)
+		for (num = 0; num <= n; num++)
 		{
-			if (e != i && e < i)
+			_putchar('0');
+
+			for (mult = 1; mult <= n; mult++)
 			{
-				putchar(e);
-				putchar(i);
-				if (i == 57 && e == 56)
+				_putchar(',');
+				_putchar(' ');
+
+				prod = num * mult;
+
+				if (prod <= 99)
+					_putchar(' ');
+				if (prod <= 9)
+					_putchar(' ');
+
+				if (prod >= 100)
 				{
-					break;
+					_putchar((prod / 100) + '0');
+					_putchar(((prod / 10)) % 10 + '0');
 				}
-				putchar(',');
-				putchar(' ');
+				else if (prod <= 99 && prod >= 10)
+				{
+					_putchar((prod / 10) + '0');
+				}
+				_putchar((prod % 10) + '0');
 			}
-			i++;
+			_putchar('\n');
 		}
-		e++;
 	}
-	putchar('\n');
-	return (0);
 }
