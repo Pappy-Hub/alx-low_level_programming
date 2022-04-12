@@ -1,4 +1,4 @@
-__0x00. C - Hello, world__                       
+__Low-level programming & Algorithm__                       
 
 Project done during Full Stack Software Engineering studies at ALX Holberton School. It aims to learn about what is entry point, basic commands (puts, printf, putchar), compilation process with gcc in C language.
 
@@ -20,7 +20,6 @@ All of the following files are scripts and programs written in C:
                                               
 
 **TASKS**
-
 
 
 **Project name	Description**
