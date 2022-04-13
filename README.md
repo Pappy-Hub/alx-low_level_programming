@@ -30,3 +30,4 @@ All of the following files are scripts and programs written in C:
 
 **0x02-functions_nested_loops**  	It aims to learn about header files, functions, loops and nested loops in C language
 
+__0x03-debugging__              	It aims to learn how to debug in C language
