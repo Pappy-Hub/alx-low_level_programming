@@ -17,7 +17,7 @@ __Files__
                                                                                                                                       
 All of the following files are scripts and programs written in C: 
 
-| __Filename__       |   __Description__
+| __Filename__       |   __Description__  |
 | -----------------  |  ---------------------------------------------------------------------------------------------------------- 
 | 0-reset_to_98.c	   |  Takes a pointer to an int as parameter and updates the value it points to 98
 
