@@ -1,6 +1,7 @@
 __Low-level programming & Algorithm__ 
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Module of Low-level programming and algorithm, carried out during Full Stack Software Engineering studies at ALX Holberton School.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 __Technologies__
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,16 +13,16 @@ __Technologies__
 | Codename       | focal
                                                                                                                        
                                                                                                                                       
- All of the following files are scripts and programs written in C 
+ All of the following folders are projects done during the studies:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                                                                               
 | __Project name__       |   __Description__  |
 | -----------------  |  ---------------------------------------------------------------------------------------------------------------------------------------
 | **0x00-hello_world**                  |   	It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language 
 | **0x01-variables_if_else_while**	     |   It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language  
-|**0x02-functions_nested_loops**        |   It aims to learn about header files, functions, loops and nested loops in C language
-| 0x03-debugging                        |   It aims to learn how to debug in C language
+| **0x02-functions_nested_loops**       |   It aims to learn about header files, functions, loops and nested loops in C language
+| __0x03-debugging__                    |   It aims to learn how to debug in C language
 | __0x04-more_functions_nested_loops__  |   It aims to learn about nested loops in C language
 | __0x05-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
-|__0x06-pointers_arrays_strings__	      |   It aims to learn about pointers and arrays in C language
+| __0x06-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
  	  
