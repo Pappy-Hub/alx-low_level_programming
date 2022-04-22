@@ -12,7 +12,8 @@ __Technologies__
 | Codename       | focal
                                                                                                                        
                                                                                                                                       
-All of the following files are scripts and programs written in C 
+| All of the following files are scripts and programs written in C |
+------------------------------------------------------------------------
                                                                                                                                                               
 | __Filename__       |   __Description__  |
 | -----------------  |  ---------------------------------------------------------------------------------------------------------- 
