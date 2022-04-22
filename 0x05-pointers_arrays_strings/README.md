@@ -12,7 +12,7 @@ __Technologies__
 | Codename       | focal
                                                                                                                        
                                                                                                                                       
-All of the following files are scripts and programs written in C: 
+All of the following files are scripts and programs written in C 
 -------------------------------------------------------------------
 | __Filename__       |   __Description__  |
 | -----------------  |  ---------------------------------------------------------------------------------------------------------- 
@@ -28,5 +28,6 @@ All of the following files are scripts and programs written in C:
 | 9-strcpy.c	       |    Copies the string pointed to by src, including the terminating null byte, to the buffer pointed to by dest
 | 100-atoi.c	       |    Converts a string to an integer
 | 101-keygen.c	     |    Generates random valid passwords for the program 101-crackme
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
