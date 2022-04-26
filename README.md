@@ -25,4 +25,5 @@ __Technologies__
 | __0x04-more_functions_nested_loops__  |   It aims to learn about nested loops in C language
 | __0x05-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
 | __0x06-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
+| __0x07-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
  	  
