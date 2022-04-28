@@ -26,4 +26,5 @@ __Technologies__
 | __0x05-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
 | __0x06-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
 | __0x07-pointers_arrays_strings__	     |   It aims to learn about pointers and arrays in C language
+| __0x08-recursion__	                   |   It aims to learn about recursion and how to implement it in C language
  	  
