@@ -18,3 +18,4 @@ break;
 } while (*s++);
 return (num *i);
 }
+
