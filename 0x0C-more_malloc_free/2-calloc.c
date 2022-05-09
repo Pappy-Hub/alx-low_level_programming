@@ -1,42 +1,38 @@
 #include "main.h"
 #include <stdlib.h>
-/**
- * _memset - is a function that copies char
- * @s: string input
- * @b: input to be copied
- * @n: bytes to be copied
- * Return: string output
- */
-char *_memset(char *s, char b, unsigned int n)
-{
-	unsigned int i;
 
-	for (i = 0; i < n; i++)
-	{
-		s[i] = b;
-	}
-	return (s);
-}
 /**
- * _calloc - is a function that allocates memory for an array using malloc
- * @nmemb: allocates for n elements input
- * @size: input of bytes to allocate
- * Return: pointer to new memory place
+ * *_calloc - Function to allocates memory for an array.
+ * @nmemb: Number of the array elements.
+ * @size: the size of elements on the Array.
+ *
+ * Return: void pointer to the allocated memory.
  */
+
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
-	void *ptr;
-
+	unsigned int i;
+	char *arr;
+/*if size is NULL*/
 	if (nmemb == 0 || size == 0)
 		return (NULL);
-	ptr = malloc(nmemb * size);
 
-	if (ptr == NULL)
+	arr = malloc(nmemb * size);
+/* if malloc fails , returns 0 */
+	if (arr == NULL)
 		return (NULL);
+/* setting memory to zero */
+	for (i = 0; i < (nmemb * size); i++)
+		arr[i] = 0;
 
-	_memset(ptr, 0, (nmemb * size));
-	return (ptr);
+return (arr);
 }
+
+
+
+
+
+
 
 
 
