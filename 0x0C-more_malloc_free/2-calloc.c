@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdlib.h>
-
 /**
  * *_calloc - Function to allocates memory for an array.
  * @nmemb: Number of the array elements.
@@ -8,7 +7,6 @@
  *
  * Return: void pointer to the allocated memory.
  */
-
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i;
@@ -27,18 +25,3 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 
 return (arr);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
