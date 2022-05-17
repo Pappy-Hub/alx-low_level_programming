@@ -37,3 +37,4 @@ __Technologies__
 | **0x0D-preprocessor**	                |   It aims to learn about how to include guard in the header files and macros in C language
 | **0x0E-structures_typedef**	          |   It aims to learn about structures and typedef in C language 	  
 | __0x0F-function_pointers__	           |   It aims to learn about function pointers in C language
+| __0x10-variadic_functions__	          |   It aims to learn about variadic functions in C language
