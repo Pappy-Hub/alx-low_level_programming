@@ -41,3 +41,4 @@ __Technologies__
 | __0x12-singly_linked_lists__          | 	 It aims to learn about linked lists in C language
 | __0x13-more_singly_linked_lists__     | 	 It aims to learn about singly linked lists in C language
 | __0x14-bit_manipulation__             | 	 It aims to learn about how to manipulate bits and use bitwise operators in C
+| __0x15-file_io__                      |  	It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language
