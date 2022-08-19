@@ -42,3 +42,8 @@ __Technologies__
 | __0x13-more_singly_linked_lists__     | 	 It aims to learn about singly linked lists in C language
 | __0x14-bit_manipulation__             | 	 It aims to learn about how to manipulate bits and use bitwise operators in C
 | __0x15-file_io__                      |  	It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language
+| __0x17-doubly_linked_lists__          |  	It aims to learn about doubly linked list in C language
+| __0x18-dynamic_libraries__            |  	It aims to learn about dynamic and shared libraries in C language
+| __0x19-stacks_queues_lifo_fifo__      |  	Submodule of monty, an interpreter of Monty ByteCode files written with C language
+| __0x1A-hash_tables__                  |  	It aims to learn how to implement Hash Tables with C language
+| __0x1B-sorting_algorithms__           |  	It aims to learn about sorting algorithms (bubble sort, insertion sort, selection sort, quick sort and so on) and Big O Notation in C language
